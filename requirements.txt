@@ -1,1 +1,7 @@
-# Add the Python dependencies used by the actual implementation here.
+# IoT Sensors: Ultrasonic / IR sensors, GPS
+# Controller: Arduino / NodeMCU (ESP8266)
+# Cloud: ThingSpeak / Firebase
+# Monitoring: Real-time bin-level tracking & alerts
+# Routing: GPS-based optimized waste collection routes
+# Python
+# OpenCV
