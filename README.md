@@ -28,6 +28,15 @@ Smart-Waste-Management-System/
     └── project-report.md
 ```
 
+## Technologies Used
+
+- Python
+- IoT
+- Arduino / NodeMCU
+- Ultrasonic / IR Sensors
+- Cloud Monitoring
+- GPS
+
 ## Objectives
 
 - Improve waste collection and management
